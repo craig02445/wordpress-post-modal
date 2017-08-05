@@ -37,10 +37,10 @@ And now you have a popup!
 == Frequently Asked Questions ==
 
 = What does this NOT do? =
-These popups are not for getting the user's attention or having them sign up for access, etc. These are to give the user additional information without them leaving the page or site.
+These popups are not for getting the user's attention or having them sign up for access, etc. They are to give the user additional information without leaving the page or site.
 
 = What are the advantages of this popup? =
-If your user needs additional information you will now be able to popup a window with that information. If the information is on a page or post within your site, you can have that popup with about 30 seconds worth of work. Information on an external site may take a minute or two longer to implement.
+If your user needs additional information they will now be able to popup a window with that information. If the information is on a page or post within your site, you can have that popup with about 30 seconds worth of work. Information on an external site may take a minute or two longer to implement.
 
 Most importantly, your user will not be taken to another page, on or off your site. The information will load quicker into the popup than going to the page itself.
 
